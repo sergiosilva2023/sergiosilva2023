@@ -9,6 +9,7 @@
 ---
 
 ## 🛠️ Tecnologias e Conhecimentos
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px">
 
 ### Linguagens
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -16,6 +17,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -50,6 +53,7 @@
 - 🔹 **Web Development Portfolio** – HTML, CSS, JS, Angular e Nextjs
 
 ---
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px">
 
 ## 🎓 Estágio
 - **Trigenius (Lisboa)**  
@@ -60,6 +64,8 @@
 ---
 
 ## 🌱 Objetivos
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
+
 - Aprofundar conhecimentos em **DevOps** (CI/CD, Docker, Kubernetes, automação de pipelines)  
 - Explorar e aplicar conceitos de **Data Science** (Python, Pandas, Machine Learning, análise de dados)  
 - Integrar práticas modernas de desenvolvimento e operações para criar soluções escaláveis e eficientes  
