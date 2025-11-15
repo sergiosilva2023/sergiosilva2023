@@ -1,6 +1,8 @@
-# 👋 Olá, eu sou o Sérgio Silva!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  Olá, eu sou o Sérgio Silva!
 
 💻 Full-Stack Web Developer | ERP Integration | SQL & C#
+
+
 
 🎓 Recém-graduado em Web Development, atualmente => desenvolvendo!...
 
