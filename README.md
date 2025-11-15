@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sérgio Silva!
 
-<!--
-**sergiosilva2023/sergiosilva2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer | ERP Integration | SQL & C#
 
-Here are some ideas to get you started:
+🎓 Recém-graduado em Web Development, atualmente => desenvolvendo!.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** C#, JavaScript, PHP, SQL, Java
+- **Frameworks:** ASP.NET Core, WinForms, .NET, Java Spring-Boot, Laravel, Angular, Nextjs
+- **Bases de Dados:** SQL Server, MySql, PostGres
+- **Outros:** ERP Primavera Extensibility, API Authentication, Logging & Error Handling
+
+---
+
+## 📊 Projetos em Destaque
+- 🔹 **ERP Reporting Dashboard** – consultas SQL dinâmicas e relatórios integrados
+- 🔹 **WinForms App Modern UI** – aplicação com progress bars e validação robusta
+- 🔹 **Web Development Portfolio** – HTML, CSS, JS, Angular e Nextjs
+
+---
+
+## 🌱 Objetivos
+- Consolidar experiência em ERP e reporting
+- Criar soluções escaláveis com impacto real nos negócios
+- Continuar a evoluir em frameworks modernas e boas práticas
+
+---
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/devssilva)
+- [Site Pessoal](https://www.devssilva.com)
+- [Site Portfolio](https://www.devssilva.com/angular-portfolio)
+- [Email](mailto:sergio.web100@gmail.com.com)
+
